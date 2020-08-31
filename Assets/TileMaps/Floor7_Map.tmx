@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="industrial-tileset1.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmWsOAiEMBtc7eP+z+ltDu3T7gMpM0sTEB1+BQYzXdQ7v1/djqQBgP37dxF2APuAvQC80P/EXoAcjNyv95WyAf0Hay5k+RfjryeN9r5QfoJoV33Vef72Z8RdWEb1Put1VI+4DGf2Ozp5sp/nf7R5tjqLLkie6vywyslozV+xnyz2jIstJXmt9dvL3yfp08dezF0/z14L2e2A37y2Oas91qZk5yDhvVvc4ypPNnavedVlJRBZrfzMuap89O+7O9WQeI9xZ3eMuSPtSem2HPqvWBX9984+/OeCvfRxpbC2TNW9EfQBN8zGN
+  </data>
+ </layer>
+</map>

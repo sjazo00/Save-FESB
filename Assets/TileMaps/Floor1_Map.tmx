@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="7">
+ <tileset firstgid="1" source="tileset_gutter.tsx"/>
+ <tileset firstgid="925" source="industrial-tileset1.tsx"/>
+ <imagelayer id="4" name="Fesb" offsetx="1770" offsety="46">
+  <image source="../../../../Desktop/fesb-logo.png" width="206" height="84"/>
+ </imagelayer>
+ <layer id="9" name="sve" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztl0ESwyAIRbPo/e/SG3bbSbEISvw6782wQRgRUJLrAgAAAAAAAAAAAAAAdd6vX7H0ER3Mx6oTOW/j5WUkb0o1aO1t6T3d6nNkBHTJ1qentiP1v/up9b2lj+hWEN1/dbz/iL41J75N2XP0+mXy+q2/23k+VUTmr7WuNn+r7OE5sm9RxKfHttXb3v1t2VWw8/0dmTkq86pydu7475CNt8J+9/ur+P08qyd37O0T8PI+U1TisOKZtYac3TNq8gF1vTOf
+  </data>
+ </layer>
+</map>

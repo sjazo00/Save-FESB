@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: 8a53ffcb59100d746ad997d72cd2138a
+timeCreated: 1552845417
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fx-light-effects-energy-symbols-450w-1051871684_0
+    21300002: fx-light-effects-energy-symbols-450w-1051871684_1
+    21300004: fx-light-effects-energy-symbols-450w-1051871684_2
+    21300006: fx-light-effects-energy-symbols-450w-1051871684_3
+    21300008: fx-light-effects-energy-symbols-450w-1051871684_4
+    21300010: fx-light-effects-energy-symbols-450w-1051871684_5
+    21300012: fx-light-effects-energy-symbols-450w-1051871684_6
+    21300014: fx-light-effects-energy-symbols-450w-1051871684_7
+    21300016: fx-light-effects-energy-symbols-450w-1051871684_8
+    21300018: fx-light-effects-energy-symbols-450w-1051871684_9
+    21300020: fx-light-effects-energy-symbols-450w-1051871684_10
+    21300022: fx-light-effects-energy-symbols-450w-1051871684_11
+    21300024: fx-light-effects-energy-symbols-450w-1051871684_12
+    21300026: fx-light-effects-energy-symbols-450w-1051871684_13
+    21300028: fx-light-effects-energy-symbols-450w-1051871684_14
+    21300030: fx-light-effects-energy-symbols-450w-1051871684_15
+    21300032: fx-light-effects-energy-symbols-450w-1051871684_16
+    21300034: fx-light-effects-energy-symbols-450w-1051871684_17
+    21300036: fx-light-effects-energy-symbols-450w-1051871684_18
+    21300038: fx-light-effects-energy-symbols-450w-1051871684_19
+    21300040: fx-light-effects-energy-symbols-450w-1051871684_20
+    21300042: fx-light-effects-energy-symbols-450w-1051871684_21
+    21300044: fx-light-effects-energy-symbols-450w-1051871684_22
+    21300046: fx-light-effects-energy-symbols-450w-1051871684_23
+    21300048: fx-light-effects-energy-symbols-450w-1051871684_24
+    21300050: fx-light-effects-energy-symbols-450w-1051871684_25
+    21300052: fx-light-effects-energy-symbols-450w-1051871684_26
+    21300054: fx-light-effects-energy-symbols-450w-1051871684_27
+    21300056: fx-light-effects-energy-symbols-450w-1051871684_28
+    21300058: fx-light-effects-energy-symbols-450w-1051871684_29
+    21300060: fx-light-effects-energy-symbols-450w-1051871684_30
+    21300062: fx-light-effects-energy-symbols-450w-1051871684_31
+    21300064: fx-light-effects-energy-symbols-450w-1051871684_32
+    21300066: fx-light-effects-energy-symbols-450w-1051871684_33
+    21300068: fx-light-effects-energy-symbols-450w-1051871684_34
+    21300070: fx-light-effects-energy-symbols-450w-1051871684_35
+    21300072: fx-light-effects-energy-symbols-450w-1051871684_36
+    21300074: fx-light-effects-energy-symbols-450w-1051871684_37
+    21300076: fx-light-effects-energy-symbols-450w-1051871684_38
+    21300078: fx-light-effects-energy-symbols-450w-1051871684_39
+    21300080: fx-light-effects-energy-symbols-450w-1051871684_40
+    21300082: fx-light-effects-energy-symbols-450w-1051871684_41
+    21300084: fx-light-effects-energy-symbols-450w-1051871684_42
+    21300086: fx-light-effects-energy-symbols-450w-1051871684_43
+    21300088: fx-light-effects-energy-symbols-450w-1051871684_44
+    21300090: fx-light-effects-energy-symbols-450w-1051871684_45
+    21300092: fx-light-effects-energy-symbols-450w-1051871684_46
+    21300094: fx-light-effects-energy-symbols-450w-1051871684_47
+    21300096: fx-light-effects-energy-symbols-450w-1051871684_48
+    21300098: fx-light-effects-energy-symbols-450w-1051871684_49
+    21300100: fx-light-effects-energy-symbols-450w-1051871684_50
+    21300102: fx-light-effects-energy-symbols-450w-1051871684_51
+    21300104: fx-light-effects-energy-symbols-450w-1051871684_52
+    21300106: fx-light-effects-energy-symbols-450w-1051871684_53
+    21300108: fx-light-effects-energy-symbols-450w-1051871684_54
+    21300110: fx-light-effects-energy-symbols-450w-1051871684_55
+    21300112: fx-light-effects-energy-symbols-450w-1051871684_56
+    21300114: fx-light-effects-energy-symbols-450w-1051871684_57
+    21300116: fx-light-effects-energy-symbols-450w-1051871684_58
+    21300118: fx-light-effects-energy-symbols-450w-1051871684_59
+    21300120: fx-light-effects-energy-symbols-450w-1051871684_60
+    21300122: fx-light-effects-energy-symbols-450w-1051871684_61
+    21300124: fx-light-effects-energy-symbols-450w-1051871684_62
+    21300126: fx-light-effects-energy-symbols-450w-1051871684_63
+    21300128: fx-light-effects-energy-symbols-450w-1051871684_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 360
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 368
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 362
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 366
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 294
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 294
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 292
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 300
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 286
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 300
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 286
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 212
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 214
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 212
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 243
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 229
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 226
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 226
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 235
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 232
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 226
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 218
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 141
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 199
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 196
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 142
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 153
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 177
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 186
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 182
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 179
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 162
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 182
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 182
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 172
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 180
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 163
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 171
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 163
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_46
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 166
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 168
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 158
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_52
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 157
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 152
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 70
+        width: 21
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 197
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx-light-effects-energy-symbols-450w-1051871684_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
